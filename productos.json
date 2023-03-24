@@ -1,0 +1,52 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Caneria cobre Diametro: 1/2pulgada",
+            "descripcion": "Codo Bronce soldar ambos lados.",
+            "precio": 1200,
+            "stock": 49,
+            "imagen": "Cañeria_CU_12.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Codo so-so 1/2",
+            "descripcion": "Codo Bronce soldar ambos lados.",
+            "precio": 1200,
+            "stock": 43,
+            "imagen": "codo-so-1.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Codo so-hi 1/2",
+            "descripcion": "Codo bronce hilo interior y soldar. ",
+            "precio": 1900,
+            "stock": 6,
+            "imagen": "codoBronceSo-HI.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Codo so-he 1/2",
+            "descripcion": "Codo bronce hilo exterior y soldar.",
+            "precio": 1850,
+            "stock": 50,
+            "imagen": "codoBronceSo-He.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Flexible agua 30cm",
+            "descripcion": "Flexible de agua 30cm hi-hi",
+            "precio": 9500,
+            "stock": 4,
+            "imagen": "flex-agua-media.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Llave jardin 1/2",
+            "descripcion": "Llave de jardin agua 1/2 he-he",
+            "precio": 3850,
+            "stock": 15,
+            "imagen": "llave-jardin.png"
+        }
+    ]
+}
